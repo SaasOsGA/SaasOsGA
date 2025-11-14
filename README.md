@@ -125,6 +125,3 @@ POST http://localhost:8080/api/vendas?codigoProduto=A001&quantidade=2
 - O sistema retorna mensagens claras quando algo não está certo, como preço inválido ou estoque insuficiente.
 
 ---
-
-
-
