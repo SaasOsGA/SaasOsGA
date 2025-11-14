@@ -1,0 +1,27 @@
+# Ignore o .env na raiz (variáveis sensíveis)
+.env
+
+# Pastas alvo da build
+/target
+
+# Maven Wrapper jar
+.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+*.iws
+*.iml
+*.ipr
+*.classpath
+*.project
+.settings/
+.apt_generated/
+.sts4-cache/
+
+# VS Code
+.vscode/
+
+# Logs e temporários
+*.log
+*.tmp
+*.bak

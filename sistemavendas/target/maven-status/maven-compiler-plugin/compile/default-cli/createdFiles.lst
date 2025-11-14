@@ -1,0 +1,10 @@
+com\programacao\sistemavendas\exception\ProdutoInvalidoException.class
+com\programacao\sistemavendas\service\ProdutoService.class
+com\programacao\sistemavendas\repository\VendaRepository.class
+com\programacao\sistemavendas\exception\EstoqueInsuficienteException.class
+com\programacao\sistemavendas\model\Produto.class
+com\programacao\sistemavendas\SistemavendasApplication.class
+com\programacao\sistemavendas\repository\ProdutoRepository.class
+com\programacao\sistemavendas\model\Venda.class
+com\programacao\sistemavendas\controller\VendaController.class
+com\programacao\sistemavendas\service\VendaService.class
